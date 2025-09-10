@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌱 Currently studying **Web Development** and preparing for **UX/UI design certifications**  
 - 🎯 Goal: Become a **versatile developer & designer** with skills in both **frontend development** and **user experience design**  
-- 🌏 Aiming to build my career in **korea** as a creative and adaptable developer  
+- 🌏 Aiming to build my career as a creative and adaptable developer  
 - 💡 I enjoy creating digital products that combine **clean code** with **beautiful design**  
 
 ## 🛠 Tech Stack
@@ -21,9 +21,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=tokyonight)  
 
 ## 📫 Contact
-- Email: your@email.com  
-- LinkedIn: [링크]  
-- Portfolio: [링크]  
+- Email: falconet0815@naver.com
 
 ---
 ⭐️ From [YourGitHubID]
