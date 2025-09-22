@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hyunho  
+# 👋 Hi, I'm Hyunh0
 
 ## 🚀 About Me
 - 🌱 Currently studying **Web Development** and preparing for **UX/UI design certifications**  
